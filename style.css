@@ -1,0 +1,33 @@
+#mainMenu {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background: yellow;
+    padding: 20px;
+    margin: 0;
+}
+#sidebarMenu {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    background: greenyellow;
+}
+* {
+    text-decoration: none;
+    color: black;
+}
+a {
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+div {
+    text-align: center;
+    padding: 25px;
+}
+button {
+    padding: 10px 25px;
+    background: grey;
+    border: none;
+}
